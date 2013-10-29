@@ -89,8 +89,8 @@ After the move completes, the repositories should look like this:
 └── logs-staging
     └── day=05
         └── 1378422612173-10.avro
-/user/hive/warehouse/        
-├── logs
+/user/hive/warehouse        
+└── logs
     └── year=2013
       └── month=09
           └── day=04
